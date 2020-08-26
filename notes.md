@@ -4,5 +4,5 @@
     > git clong (github项目地址)
     > git log.
     > gitk
-    
-![aaa] (C:/Users/Administrator/Pictures/13.jpg)
+
+![aaa](./img/EEA5261A-C4E7-4387-AF8B-3D6F0C3966C5.png)
